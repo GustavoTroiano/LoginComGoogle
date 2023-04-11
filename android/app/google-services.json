@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70089461732",
+    "project_id": "logar-4f20f",
+    "storage_bucket": "logar-4f20f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70089461732:android:15b4fcc7e53182b7f181f1",
+        "android_client_info": {
+          "package_name": "com.logargoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70089461732-krhtasohq12bnq4tqqc6u9enl4iq1au6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logargoogle",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "70089461732-i81e9abh6j6sg2ll618okf611p6kg9fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjC3PJ21tkSZqOARzhhVaIUo7OuYrXF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70089461732-i81e9abh6j6sg2ll618okf611p6kg9fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
